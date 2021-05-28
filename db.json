@@ -1,0 +1,7 @@
+{"Stock": [
+    {"id": 1, "nombre": "Remera Polo", "tipo": "Remera", "precio": 1200, "talle": "S","img":"Imagenes/remera-polo-label.jpg" },
+    {"id": 2, "nombre": "Remera Vinson", "tipo": "Remera", "precio": 1370, "talle": "M","img":"Imagenes/remera-vinson.jpg"  },
+    {"id": 3, "nombre": "Remera G4", "tipo": "Remera", "precio": 1596, "talle": "L","img":"Imagenes/remera-g4.jpg"  },
+    {"id": 4, "nombre": "Remera Oxford ", "tipo": "Remera", "precio": 900, "talle": "XL","img":"Imagenes/remera-oxford-club.jpg"  }
+]
+}
