@@ -2,6 +2,12 @@
     {"id": 1, "nombre": "Remera Polo", "tipo": "Remera", "precio": 1200, "talle": "S","img":"Imagenes/remera-polo-label.jpg" },
     {"id": 2, "nombre": "Remera Vinson", "tipo": "Remera", "precio": 1370, "talle": "M","img":"Imagenes/remera-vinson.jpg"  },
     {"id": 3, "nombre": "Remera G4", "tipo": "Remera", "precio": 1596, "talle": "L","img":"Imagenes/remera-g4.jpg"  },
-    {"id": 4, "nombre": "Remera Oxford ", "tipo": "Remera", "precio": 900, "talle": "XL","img":"Imagenes/remera-oxford-club.jpg"  }
+    {"id": 4, "nombre": "Remera Oxford ", "tipo": "Remera", "precio": 900, "talle": "XL","img":"Imagenes/remera-oxford-club.jpg"  },
+    {"id": 5, "nombre": "Campera Vinson", "tipo": "Campera", "precio": 8780, "talle": "S","img":"Imagenes/campera-vinson.jpg" },
+    {"id": 6, "nombre": "Campera Mistral", "tipo": "Campera", "precio": 7456, "talle": "M","img":"Imagenes/campera-mistral.jpg" },
+    {"id": 7, "nombre": "Campera Brooksfield", "tipo": "Campera", "precio": 10156, "talle": "L","img":"Imagenes/campera-broosfield.jpg" },
+    {"id": 8, "nombre": "Campera Adidas", "tipo": "Campera", "precio": 12456, "talle": "XL","img":"Imagenes/campera-adidas.jpg" }
+
+
 ]
 }
