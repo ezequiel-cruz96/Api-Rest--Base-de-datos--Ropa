@@ -10,6 +10,6 @@
     {"id": 9, "nombre": "Remera 47 Street", "tipo": "Remera", "precio": 3245, "talle": "S","img":"Imagenes/remera-47street.jpg" },
     {"id": 10, "nombre": "Remera Saint", "tipo": "Remera", "precio": 2135, "talle": "M","img":"Imagenes/remera-saint.jpg" },
     {"id": 11, "nombre": "Remera Mostaza", "tipo": "Remera", "precio": 3465, "talle": "L","img":"Imagenes/remera-mostaza.jpg" },
-    {"id": 12, "nombre": "Remera Vespertine", "tipo": "Remera", "precio": 2569, "talle": "XL","img":"Imagenes\remera-vespertine.jpg" }
+    {"id": 12, "nombre": "Remera Vespertine", "tipo": "Remera", "precio": 2569, "talle": "XL","img":"Imagenes/remera-vespertine.jpg" }
 ]
 }
