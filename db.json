@@ -10,6 +10,10 @@
     {"id": 9, "nombre": "Remera 47 Street", "tipo": "Remera", "precio": 3245, "talle": "S","img":"Imagenes/remera-47street.jpg" },
     {"id": 10, "nombre": "Remera Saint", "tipo": "Remera", "precio": 2135, "talle": "M","img":"Imagenes/remera-saint.jpg" },
     {"id": 11, "nombre": "Remera Mostaza", "tipo": "Remera", "precio": 3465, "talle": "L","img":"Imagenes/remera-mostaza.jpg" },
-    {"id": 12, "nombre": "Remera Vespertine", "tipo": "Remera", "precio": 2569, "talle": "XL","img":"Imagenes/remera-vespertine.jpg" }
+    {"id": 12, "nombre": "Remera Vespertine", "tipo": "Remera", "precio": 2569, "talle": "XL","img":"Imagenes/remera-vespertine.jpg" },
+    {"id": 13, "nombre": "Campera Inflable", "tipo": "Campera", "precio": 11265, "talle": "S","img":"Imagenes/campera-inflable.jpg" },
+    {"id": 14, "nombre": "Campera Chelsea", "tipo": "Campera", "precio": 11354, "talle": "M","img":"Imagenes/campera-chelsea.jpg" },
+    {"id": 15, "nombre": "Campera 47 Street", "tipo": "Campera", "precio": 15354, "talle": "L","img":"Imagenes/campera-47street.jpg" },
+    {"id": 16, "nombre": "Campera Polar", "tipo": "Campera", "precio": 13568, "talle": "XL","img":"Imagenes/campera-polar.jpg" }
 ]
 }
