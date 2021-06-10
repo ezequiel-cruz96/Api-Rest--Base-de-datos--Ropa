@@ -6,8 +6,10 @@
     {"id": 5, "nombre": "Campera Vinson", "tipo": "Campera", "precio": 8780, "talle": "S","img":"Imagenes/campera-vinson.jpg" },
     {"id": 6, "nombre": "Campera Mistral", "tipo": "Campera", "precio": 7456, "talle": "M","img":"Imagenes/campera-mistral.jpg" },
     {"id": 7, "nombre": "Campera Brooksfield", "tipo": "Campera", "precio": 10156, "talle": "L","img":"Imagenes/campera-broosfield.jpg" },
-    {"id": 8, "nombre": "Campera Adidas", "tipo": "Campera", "precio": 12456, "talle": "XL","img":"Imagenes/campera-adidas.jpg" }
-
-
+    {"id": 8, "nombre": "Campera Adidas", "tipo": "Campera", "precio": 12456, "talle": "XL","img":"Imagenes/campera-adidas.jpg" },
+    {"id": 9, "nombre": "Remera 47 Street", "tipo": "Remera", "precio": 3245, "talle": "S","img":"Imagenes/remera-47street.jpg" },
+    {"id": 10, "nombre": "Remera Saint", "tipo": "Remera", "precio": 2135, "talle": "M","img":"Imagenes/remera-saint.jpg" },
+    {"id": 11, "nombre": "Remera Mostaza", "tipo": "Remera", "precio": 3465, "talle": "L","img":"Imagenes/remera-mostaza.jpg" },
+    {"id": 12, "nombre": "Remera Vespertine", "tipo": "Remera", "precio": 2569, "talle": "XL","img":"Imagenes\remera-vespertine.jpg" }
 ]
 }
